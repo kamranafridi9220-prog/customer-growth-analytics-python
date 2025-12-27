@@ -8,9 +8,17 @@ This document is intended to complement the main notebook and README, rather tha
 ---
 
 ## 2. Problem Context and Motivation
-Modern digital commerce organisations collect large volumes of transactional and behavioural data. However, many struggle to translate this data into actionable insights that can directly inform automated decision-making around customer acquisition, retention, and growth.
+This project started from a practical observation: in digital commerce, “having data” is common, but “using data to drive automated decisions” is still inconsistent.
 
-The motivation for this project was to explore how relatively simple, explainable analytics techniques can already produce high-value insights that support intelligent automation, without relying on complex or opaque machine learning models.
+Most organisations can report revenue and orders, yet the operational gap appears when teams try to answer questions like: *Which customers should we prioritise this week? Who is drifting away? What should trigger an automated re-engagement or personalised offer?* Too often, decisions are delayed, manual, or based on broad segments that do not reflect real customer behaviour.
+
+I designed this work specifically to bridge analytics outputs with automation-ready actions using a disciplined, explainable approach. Instead of building a complex model first, I prioritised a pipeline that converts raw transactions into decision signals that a business could actually operationalise. That is why the project begins with validation of a recent dataset (2023–2024), then progresses through three progressively more actionable layers:
+- **Revenue trend analysis** to identify timing patterns that can inform campaign automation and planning.
+- **Retention impact analysis** to quantify why returning customers matter and where automated retention should be prioritised.
+- **Customer segmentation (RFM-style)** to produce interpretable groups that map directly to automation workflows (e.g., high-value loyal vs at-risk).
+
+The motivation, therefore, is not “analysis for reporting,” but analytics that supports execution: clear signals that can drive automated decisions around customer growth, retention, and personalisation in modern digital commerce environments.
+
 
 ---
 
