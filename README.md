@@ -40,3 +40,14 @@ The work demonstrates how raw customer data can be transformed into decision-sup
 ## Outcome
 This project demonstrates how data-driven analytics can be applied to real-world customer growth and retention challenges. The insights generated can directly inform intelligent automation workflows such as targeted campaigns, personalised recommendations, and retention-focused decision support.
 
+## Key Visual Outputs
+
+The following visualisations were generated directly from the project analysis to support the written insights and findings:
+
+- Monthly revenue trend analysis highlighting seasonality patterns  
+- Revenue contribution comparison between new and returning customers  
+- Customer segmentation by purchase frequency  
+- Revenue contribution by customer segment  
+
+All visual outputs are available in the `/images` directory of this repository.
+
