@@ -51,3 +51,9 @@ The following visualisations were generated directly from the project analysis t
 
 All visual outputs are available in the `/images` directory of this repository.
 
+## Related Writing
+
+Insights from this project are explored further in long-form articles published on Medium, focusing on decision-making, customer behaviour, and responsible intelligent automation.
+
+
+
