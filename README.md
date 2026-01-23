@@ -1,7 +1,10 @@
 # Customer Growth Analytics using Data-Driven Analytics and Intelligent Automation
 
 ## Project Overview
-This project applies Python-based analytics to recent e-commerce transaction data (2023–2024) to generate actionable insights related to customer acquisition, retention, and intelligent automation.
+This project explores how customer transaction data can be used to support better business decisions and more responsible approaches to intelligent automation. Using recent e-commerce data (2023–2024), the work focuses on understanding customer behaviour, revenue trends, retention patterns, and segmentation.
+
+Rather than treating analytics as an end product, the project approaches analysis as a decision-support exercise. Each insight is evaluated based on whether it can realistically inform an action, and whether that action would be appropriate to automate in a real organisational setting.
+
 
 The work demonstrates how raw customer data can be transformed into decision-support insights for modern digital businesses, with a focus on analytics-driven automation and personalisation strategies.
 
@@ -38,7 +41,7 @@ The work demonstrates how raw customer data can be transformed into decision-sup
 - GitHub for version control and evidence tracking
 
 ## Outcome
-This project demonstrates how data-driven analytics can be applied to real-world customer growth and retention challenges. The insights generated can directly inform intelligent automation workflows such as targeted campaigns, personalised recommendations, and retention-focused decision support.
+This project demonstrates how data-driven analytics can be applied thoughtfully to real-world customer growth and retention challenges. The emphasis is on clarity, explainability, and decision quality, rather than automation for its own sake. The insights produced can inform intelligent automation workflows while retaining appropriate human oversight.
 
 ## Key Visual Outputs
 
