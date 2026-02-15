@@ -116,6 +116,23 @@ The focus remains on decision-support analytics rather than production deploymen
 Segments and automation recommendations should be periodically reviewed in live environments to prevent segment drift and misalignment with evolving customer 
 behaviour.
 
+## Strategic Automation Decision Framework
+
+To ensure analytics insights translate into responsible automation, this project introduces a structured decision framework used to evaluate whether a process should be automated.
+
+The framework evaluates:
+
+1. Stability – Is the signal consistent over time?
+2. Predictability – Can behaviour be forecasted with acceptable risk?
+3. Interpretability – Can the logic be explained to stakeholders?
+4. Reversibility – Can automated actions be paused or overridden?
+5. Governance Impact – Does the decision affect fairness, pricing, or customer trust?
+
+Only processes meeting defined thresholds across these dimensions are considered suitable for automation.
+
+This approach demonstrates a leadership-oriented mindset toward intelligent automation, prioritising oversight, accountability, and long-term organisational trust.
+
+
 ## Repository Structure
 
 - `/data` – Source dataset used for analysis
