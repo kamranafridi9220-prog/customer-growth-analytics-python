@@ -1,6 +1,8 @@
 # Customer Growth Analytics using Data-Driven Analytics and Intelligent Automation
 
+
 ## Project Overview
+
 This project explores how customer transaction data can be used to support better business decisions and more responsible approaches to intelligent automation. Using recent e-commerce data (2023–2024), the work focuses on understanding customer behaviour, revenue trends, retention patterns, and segmentation.
 
 Rather than treating analytics as an end product, the project approaches analysis as a decision-support exercise. Each insight is evaluated based on whether it can realistically inform an action, and whether that action would be appropriate to automate in a real organisational setting.
@@ -9,6 +11,7 @@ Rather than treating analytics as an end product, the project approaches analysi
 The work demonstrates how raw customer data can be transformed into decision-support insights for modern digital businesses, with a focus on analytics-driven automation and personalisation strategies.
 
 ## Project Objectives
+
 - Analyse recent e-commerce transaction data
 - Identify revenue and seasonality trends
 - Quantify the impact of customer retention
@@ -16,6 +19,7 @@ The work demonstrates how raw customer data can be transformed into decision-sup
 - Demonstrate applied, real-world data analytics skills
 
 ## Project Milestones
+
 
 ### Milestone 1: Revenue Trend Analysis (Completed)
 - Validated and analysed recent e-commerce transaction data (2023–2024)
@@ -34,6 +38,7 @@ The work demonstrates how raw customer data can be transformed into decision-sup
 - Demonstrated how analytics enables intelligent automation and personalised decision-making
 
 ## Tools & Technologies
+
 - Python
 - Pandas, NumPy
 - Matplotlib
@@ -41,7 +46,15 @@ The work demonstrates how raw customer data can be transformed into decision-sup
 - GitHub for version control and evidence tracking
 
 ## Outcome
+
 This project demonstrates how data-driven analytics can be applied thoughtfully to real-world customer growth and retention challenges. The emphasis is on clarity, explainability, and decision quality, rather than automation for its own sake. The insights produced can inform intelligent automation workflows while retaining appropriate human oversight.
+
+## Strategic Relevance
+
+While based on e-commerce transaction data, the analytical framework developed in this project is transferable to broader sectors including enterprise sales, subscription services, and digital platforms.
+
+The decision-support structure — combining revenue analysis, retention focus, behavioural segmentation, and governance constraints — provides a replicable model for responsible automation strategy in data-driven organisations.
+
 
 ## Key Visual Outputs
 
@@ -57,7 +70,6 @@ All visual outputs are available in the `/images` directory of this repository.
 ## Related Writing
 
 Insights from this project are explored further in long-form articles published on Medium, focusing on decision-making, customer behaviour, and responsible intelligent automation.
-
 
 ---
 
@@ -87,7 +99,17 @@ This project intentionally does not:
 
 The focus remains on decision-support analytics rather than production deployment.
 
-Segments and automation recommendations should be periodically reviewed in live environments to prevent segment drift and misalignment with evolving customer behaviour.
+Segments and automation recommendations should be periodically reviewed in live environments to prevent segment drift and misalignment with evolving customer 
+behaviour.
+
+## Repository Structure
+
+- `/data` – Source dataset used for analysis
+- `/notebooks` – Jupyter notebooks (Google Colab compatible)
+- `/images` – Generated visual outputs
+- `TECHNICAL_NOTES.md` – Technical reflections and reasoning
+- `DECISION_FRAMEWORK.md` – Automation decision support and governance layer
+
 
 This framework promotes responsible automation rather than aggressive automation.
 
