@@ -1,5 +1,19 @@
 # Customer Growth Analytics using Data-Driven Analytics and Intelligent Automation
 
+## Executive Summary
+
+This project demonstrates how structured customer analytics can be translated into responsible automation strategy within a digital business environment.
+
+Using recent transactional data (2023–2024), the analysis identifies revenue stability patterns, quantifies the impact of customer retention, and builds interpretable behavioural segments. The core objective is not automation for its own sake, but automation grounded in decision accountability, predictability, and explainability.
+
+The project showcases the ability to:
+- Translate raw transactional data into strategic decision-support insights
+- Identify automation-safe zones based on behavioural stability
+- Balance efficiency with governance and oversight
+- Build analytics frameworks aligned with business risk management
+
+This work reflects applied analytics leadership rather than experimental modelling.
+
 
 ## Project Overview
 
