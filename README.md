@@ -59,4 +59,36 @@ All visual outputs are available in the `/images` directory of this repository.
 Insights from this project are explored further in long-form articles published on Medium, focusing on decision-making, customer behaviour, and responsible intelligent automation.
 
 
+---
+
+## Methodology & Analytical Boundaries
+
+This project applies structured exploratory data analysis (EDA) to transactional data from 2023–2024 to derive customer behaviour insights relevant to acquisition, retention, and automation design.
+
+### Methodological Approach
+- Data validation and preprocessing (date normalization, revenue consistency checks)
+- Time-series aggregation to identify revenue patterns and seasonality
+- Customer-level feature engineering (frequency, recency-style logic)
+- Behavioural segmentation based on observable purchase patterns
+- Comparative revenue contribution analysis (new vs returning customers)
+
+The analysis prioritised interpretability over complexity to ensure insights remain decision-ready and operationally actionable.
+
+---
+
+## Limitations & Governance Awareness
+
+This project intentionally does not:
+- Use personally identifiable information (PII)
+- Deploy predictive machine learning models
+- Automate live decision systems
+- Infer demographic characteristics
+- Optimise pricing dynamically
+
+The focus remains on decision-support analytics rather than production deployment.
+
+Segments and automation recommendations should be periodically reviewed in live environments to prevent segment drift and misalignment with evolving customer behaviour.
+
+This framework promotes responsible automation rather than aggressive automation.
+
 
