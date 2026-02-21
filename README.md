@@ -59,6 +59,18 @@ The work demonstrates how raw customer data can be transformed into decision-sup
 - Jupyter Notebooks (Google Colab)
 - GitHub for version control and evidence tracking
 
+## Automation Decision Governance Matrix (Prototype)
+
+This matrix summarises which customer-growth decisions are appropriate to automate, and where human oversight remains essential.
+
+| Decision area | Automate? | Risk level | Recommended human oversight |
+|---|---:|---:|---|
+| Monthly revenue monitoring | Yes | Low | Monthly review of anomalies |
+| Retention re-engagement triggers (returning customers) | Yes (guardrails) | Medium | Threshold review + opt-out governance |
+| Customer segmentation updates | Partially | Medium | Quarterly segment drift review |
+| Individual customer targeting intensity | Cautious | Medium–High | Policy limits + fairness review |
+| Pricing / discount automation | No (in this prototype) | High | Commercial + compliance approval |
+
 ## Outcome
 
 This project demonstrates how data-driven analytics can be applied thoughtfully to real-world customer growth and retention challenges. The emphasis is on clarity, explainability, and decision quality, rather than automation for its own sake. The insights produced can inform intelligent automation workflows while retaining appropriate human oversight.
