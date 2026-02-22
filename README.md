@@ -1,5 +1,14 @@
 # Customer Growth Analytics using Data-Driven Analytics and Intelligent Automation
+## Strategic Positioning
 
+This project demonstrates applied decision intelligence in customer growth strategy.  
+Rather than focusing purely on descriptive analytics, the analysis evaluates how behavioural customer data can inform structured, automation-ready decision frameworks while preserving human oversight.
+
+The emphasis is on:
+- Revenue stability through retention insight  
+- Responsible intelligent automation design  
+- Segment-driven operational decision support  
+- Explainable analytics for executive use
 ## Executive Summary
 
 This project demonstrates how structured customer analytics can be translated into responsible automation strategy within a digital business environment.
@@ -73,8 +82,16 @@ This matrix summarises which customer-growth decisions are appropriate to automa
 
 ## Outcome
 
-This project demonstrates how data-driven analytics can be applied thoughtfully to real-world customer growth and retention challenges. The emphasis is on clarity, explainability, and decision quality, rather than automation for its own sake. The insights produced can inform intelligent automation workflows while retaining appropriate human oversight.
+This project demonstrates how structured analytics can be transformed into decision-ready intelligence for digital businesses.
 
+The outputs support:
+
+- Automated marketing prioritisation frameworks  
+- Retention-focused resource allocation  
+- Segment-aware customer engagement logic  
+- Risk-aware intelligent automation design  
+
+The emphasis remains on explainability, governance awareness, and operational realism rather than experimental modelling.
 ## Strategic Relevance
 
 While based on e-commerce transaction data, the analytical framework developed in this project is transferable to broader sectors including enterprise sales, subscription services, and digital platforms.
@@ -92,7 +109,20 @@ The following visualisations were generated directly from the project analysis t
 - Revenue contribution by customer segment  
 
 All visual outputs are available in the `/images` directory of this repository.
+---
 
+## Visual Evidence
+
+### Monthly Revenue Trend
+![Revenue Trend](images/monthly_revenue_trend.png)
+
+### New vs Returning Revenue Contribution
+![Retention Impact](images/new_vs_returning_revenue.png)
+
+### Customer Segment Distribution
+![Customer Segmentation](images/customer_segments.png)
+
+---
 ## Related Writing
 
 Insights from this project are explored further in long-form articles published on Medium, focusing on decision-making, customer behaviour, and responsible intelligent automation.
