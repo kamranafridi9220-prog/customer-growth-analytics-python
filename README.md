@@ -120,7 +120,7 @@ All visual outputs are available in the `/images` directory of this repository.
 ![Retention Impact](images/new_vs_returning_revenue.png)
 
 ### Customer Segment Distribution
-![Customer Segmentation](images/customer_segments.png)
+![Customer Segmentation](images/customer_segments_frequency.png)
 
 ---
 ## Related Writing
