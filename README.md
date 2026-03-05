@@ -39,6 +39,7 @@ The work demonstrates how raw customer data can be transformed into decision-sup
 
 The analysis uses an anonymised e-commerce transaction dataset containing customer purchase records between 2023 and 2024.  
 Key fields include transaction date, customer identifier, purchase value, and order frequency indicators used for behavioural segmentation.
+The dataset structure allows analysis of customer purchasing frequency, revenue contribution patterns, and behavioural retention indicators used to build interpretable segmentation logic.
 ## Project Objectives
 
 - Analyse recent e-commerce transaction data
