@@ -1,4 +1,7 @@
 # Customer Growth Analytics using Data-Driven Analytics and Intelligent Automation
+![Project Status](https://img.shields.io/badge/Project%20Status-Completed-success)
+![Focus](https://img.shields.io/badge/Focus-Business%20Intelligence-blue)
+![Method](https://img.shields.io/badge/Method-Decision%20Support%20Analytics-purple)
 ## Strategic Positioning
 
 This project demonstrates applied decision intelligence in customer growth strategy.  
@@ -80,6 +83,14 @@ This matrix summarises which customer-growth decisions are appropriate to automa
 | Individual customer targeting intensity | Cautious | Medium–High | Policy limits + fairness review |
 | Pricing / discount automation | No (in this prototype) | High | Commercial + compliance approval |
 
+## Innovation Contribution
+
+This project extends beyond descriptive marketing analytics by introducing a structured decision-support perspective to customer growth analysis.
+
+Rather than focusing solely on campaign performance or dashboard reporting, the analysis decomposes revenue into acquisition, retention, and behavioural contribution layers. This enables organisations to identify structural growth drivers and translate analytics insights into automation-ready operational frameworks.
+
+The project therefore demonstrates how customer analytics can evolve from retrospective reporting toward interpretable decision architecture supporting marketing prioritisation, customer engagement strategy, and retention-driven growth.
+
 ## Outcome
 
 This project demonstrates how structured analytics can be transformed into decision-ready intelligence for digital businesses.
@@ -110,6 +121,14 @@ The following visualisations were generated directly from the project analysis t
 
 All visual outputs are available in the `/images` directory of this repository.
 ---
+## Decision-Support Insights
+
+Key insights derived from the analysis include:
+
+* Revenue stability is strongly influenced by returning customer behaviour rather than acquisition alone.  
+* Behavioural segmentation enables organisations to identify automation-safe engagement triggers.  
+* Segment-aware engagement strategies can reduce inefficient marketing spend while strengthening retention outcomes.  
+* Decision-support frameworks built on interpretable analytics improve operational clarity for marketing and growth teams.
 
 ## Visual Evidence
 
