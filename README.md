@@ -206,6 +206,17 @@ This approach demonstrates a leadership-oriented mindset toward intelligent auto
 - `TECHNICAL_NOTES.md` – Technical reflections and reasoning
 - `DECISION_FRAMEWORK.md` – Automation decision support and governance layer
 
+## Business Impact Interpretation
+
+The analytical findings highlight the structural importance of customer retention in revenue stability for digital businesses.
+
+The analysis demonstrates that:
+
+* Returning customers contribute a disproportionate share of consistent revenue.
+* Behavioural segmentation allows organisations to identify high-value engagement opportunities.
+* Retention-focused decision frameworks can stabilise revenue growth while reducing excessive acquisition spending.
+
+These insights illustrate how structured customer analytics can inform practical commercial decisions in marketing strategy, customer engagement prioritisation, and responsible automation design.
 
 This framework promotes responsible automation rather than aggressive automation.
 
