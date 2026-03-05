@@ -33,9 +33,12 @@ This project explores how customer transaction data can be used to support bette
 
 Rather than treating analytics as an end product, the project approaches analysis as a decision-support exercise. Each insight is evaluated based on whether it can realistically inform an action, and whether that action would be appropriate to automate in a real organisational setting.
 
-
 The work demonstrates how raw customer data can be transformed into decision-support insights for modern digital businesses, with a focus on analytics-driven automation and personalisation strategies.
 
+## Dataset Description
+
+The analysis uses an anonymised e-commerce transaction dataset containing customer purchase records between 2023 and 2024.  
+Key fields include transaction date, customer identifier, purchase value, and order frequency indicators used for behavioural segmentation.
 ## Project Objectives
 
 - Analyse recent e-commerce transaction data
